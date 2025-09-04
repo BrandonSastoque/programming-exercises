@@ -16,14 +16,12 @@ variable_1 = 1
 CONSTANTE = 3.14
 
 # Tipos de datos primitivos
-entero = 3
+edad = 23
 flotante = 2.1
 booleano_1 = True
 booleano_2 = False
-cadena = "Hola a todos"
+nombre = "Brandon"
 
 # Imprimir mensaje
-print("¡Hola, Python!")
+print("¡Hola!", nombre, ",Tienes", edad, "años")
 
-
-#Finalizado dia 1, correcciones en el cuaderno!
