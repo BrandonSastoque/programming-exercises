@@ -1,6 +1,6 @@
 precio = float(input("Digite el precio del articulo:"))
 edad = int(input("Digite su edad: "))
-descuento = precio*0.90
+descuento = precio * 0.90
 
 if edad <= 18:
     print ("La venta esta prohibida para este usuario")
@@ -10,4 +10,3 @@ elif edad >= 60:
     
 else:
     print ("El usuario puede comprar el producto pero no aplican descuentos")
-    
